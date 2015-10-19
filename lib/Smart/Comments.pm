@@ -521,7 +521,7 @@ This document describes Smart::Comments version 1.000005
         do_something_expensive_with($i);
     }
 
-  
+
 =head1 DESCRIPTION
 
 Smart comments provide an easy way to insert debugging and tracking code
@@ -725,7 +725,7 @@ For example, given the following assertion:
 
 if the expression evaluated false, the comment would die with the following
 message:
- 
+
     ### $min < $result && $result < $max was not true at demo.pl line 86.
     ###     $min was: 7
     ###     $result was: 1000004
@@ -1020,23 +1020,23 @@ The module requires the following modules:
 
 =item *
 
-Filter::Simple
+L<Filter::Simple>
 
 =item *
 
-version.pm
+L<version>
 
 =item *
 
-List::Util
+L<List::Util>
 
 =item *
 
-Data::Dumper
+L<Data::Dumper>
 
 =item *
 
-Text::Balanced
+L<Text::Balanced>
 
 =back
 
