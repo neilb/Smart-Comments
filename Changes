@@ -1,51 +1,35 @@
-Revision history for Smart-Comments
+Revision history for Perl module Smart::Comments
 
-0.0.1  Sat May 21 12:18:31 2005
-       Initial release.
+1.01 2015-10-?? NEILB
+    - Reformatted as per CPAN::Changes::Spec, most recent release first.
 
+1.000005 2013-07-19 DCONWAY
+    - Fixed typo in docs
+    - Fixed bad assumption (nolongdouble) in t/while_num.t
 
-
-0.0.2  Tue May 24 01:14:09 2005
-       No changes logged
-
-
-0.0.3  Tue May 24 21:54:42 2005
-
-    - New release to reacquire CPAN ownership (thanks Autrijus)
-
-
-1.0.1  Wed May 25 01:05:19 2005
-
-    - New release to override previous CPAN version
-
-
-1.0.2  Fri Feb 17 16:05:34 2006
-
-    - Cleaned up bracket alignment when printing variable contents
-
-    - Added [][] (and other bracket pairs) as valid fill sequences
-      (thanks Jerrad)
-
-    - Added <now>, <here>, etc. timespace stamps (thanks Tomi)
-
-
-
-1.0.3  Fri Feb 22 17:25:30 2008
-
-    - Added -ENV config option (thanks Steven)
-
-    - Added doc note about -MSmart::Comments approach (thanks David)
-
-    - Smartened up vertical spacing of output (thanks Steve!)
-
-
-1.000004  Thu Jun 27 06:05:54 2013
-
+1.000004 2013-06-26 DCONWAY
     - Fixed bug in handling of <line> and <file> (thanks Fred)
 
+v1.0.3 2008-02-22 DCONWAY
+    - Added -ENV config option (thanks Steven)
+    - Added doc note about -MSmart::Comments approach (thanks David)
+    - Smartened up vertical spacing of output (thanks Steve!)
 
-1.000005  Fri Jul 19 10:02:27 2013
+v1.0.2 2006-02-17 DCONWAY
+    - Cleaned up bracket alignment when printing variable contents
+    - Added [][] (and other bracket pairs) as valid fill sequences
+      (thanks Jerrad)
+    - Added <now>, <here>, etc. timespace stamps (thanks Tomi)
 
-    - Fixed typo in docs
+1.0.1 2005-05-25 DCONWAY
+    - New release to override previous CPAN version
 
-    - Fixed bad assumption (nolongdouble) in t/while_num.t
+0.0.3 2005-05-24 DCONWAY
+    - New release to reacquire CPAN ownership (thanks Autrijus)
+
+0.0.2 2005-05-24 DCONWAY
+    - No changes logged
+
+0.01 2004-09-27 AUTRIJUS
+    - Initial release.
+
