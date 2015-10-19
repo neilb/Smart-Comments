@@ -1,7 +1,5 @@
 package Smart::Comments;
 
-our $VERSION = '1.000005';
-
 use warnings;
 use strict;
 use Carp;
