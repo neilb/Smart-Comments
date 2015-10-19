@@ -3,6 +3,7 @@ Revision history for Perl module Smart::Comments
 1.05_01 2015-10-?? NEILB
     - Reformatted as per CPAN::Changes::Spec, most recent release first.
     - Switched to Dist::Zilla
+    - Added min perl version to code, so it will now appear in metadata
 
 1.000005 2013-07-19 DCONWAY
     - Fixed typo in docs

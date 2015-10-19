@@ -1,5 +1,6 @@
 package Smart::Comments;
 
+use 5.008;
 use warnings;
 use strict;
 use Carp;
