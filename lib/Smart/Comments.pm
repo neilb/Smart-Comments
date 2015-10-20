@@ -1059,6 +1059,11 @@ C<bug-smart-comments@rt.cpan.org>, or through the web interface at
 L<http://rt.cpan.org>.
 
 
+=head1 REPOSITORY
+
+L<https://github.com/neilbowers/Smart-Comments>
+
+
 =head1 AUTHOR
 
 Damian Conway  C<< <DCONWAY@cpan.org> >>
