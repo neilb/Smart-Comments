@@ -1061,7 +1061,7 @@ L<http://rt.cpan.org>.
 
 =head1 REPOSITORY
 
-L<https://github.com/neilbowers/Smart-Comments>
+L<https://github.com/neilb/Smart-Comments>
 
 
 =head1 AUTHOR

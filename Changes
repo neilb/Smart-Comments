@@ -5,6 +5,7 @@ Revision history for Perl module Smart::Comments
       *I think* at least verson 0.99 of Test::More.
       This caused some CPAN Testers failures.
       Set min version on Test::More in just that test.
+    - The github repo changed to reflect my changed github username
 
 1.05_01 2015-10-20 NEILB
     - Reformatted as per CPAN::Changes::Spec, most recent release first.
