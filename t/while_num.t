@@ -1,5 +1,5 @@
 use Smart::Comments;
-use Test::More 'no_plan';
+use Test::More 0.99 'no_plan';
 
 close *STDERR;
 my $STDERR = q{};

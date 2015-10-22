@@ -1,6 +1,12 @@
 Revision history for Perl module Smart::Comments
 
-1.05_01 2015-10-?? NEILB
+1.05_01 2015-10-22 NEILB
+    - The test t/while_num.t was using subtests in a way that requires
+      *I think* at least verson 0.99 of Test::More.
+      This caused some CPAN Testers failures.
+      Set min version on Test::More in just that test.
+
+1.05_01 2015-10-20 NEILB
     - Reformatted as per CPAN::Changes::Spec, most recent release first.
     - Switched to Dist::Zilla
     - Added min perl version to code, so it will now appear in metadata
