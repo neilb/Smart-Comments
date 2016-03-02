@@ -1059,6 +1059,11 @@ C<bug-smart-comments@rt.cpan.org>, or through the web interface at
 L<http://rt.cpan.org>.
 
 
+=head1 SEE ALSO
+
+L<Term::ProgressBar>, L<Term::ProgressBar::Simple>, L<Acme::ProgressBar>, L<Progress::Any::Output::TermProgressBarColor>
+
+
 =head1 REPOSITORY
 
 L<https://github.com/neilb/Smart-Comments>
